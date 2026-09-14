@@ -1,9 +1,25 @@
 # EnerSite Job Brief
 
-Internal EnerSite digital Civil Job Brief application.
+Digital field job briefing app for EnerSite.
 
-## Hosting
-Static site configured for Vercel. `index.html` loads `app.js`; Supabase provides authentication and data services.
+## Features
 
-## Important
-This app records job briefing information and competent-person evaluations. It does not determine OSHA compliance, soil classification, whether a protective system is required, whether an excavation is safe, or whether entry is permitted.
+- Employee sign-in
+- Admin, supervisor, and employee roles
+- Create and send Civil Job Briefs
+- Employee acknowledgments
+- Crew management
+- Jobsite photo uploads
+- Search and history
+- Print / PDF records
+- Signature tracking
+- Supabase backend
+- Vercel hosting
+
+## Deployment
+
+This repository is connected to the EnerSite Job Brief Vercel project.
+
+Production domain:
+
+enersite-job-brief.vercel.app
